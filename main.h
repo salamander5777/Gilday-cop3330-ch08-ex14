@@ -15,8 +15,3 @@ void trial(const std::string current)
   std::cout << current;
   //current = "This is an error"; - This line creates an error.
 }
-
-int main(){
-  std::string current = "Hello, this is a string";
-  trial(current);
-}
