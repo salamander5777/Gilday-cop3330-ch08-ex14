@@ -4,3 +4,8 @@
  */
 
 #include "main.h"
+
+int main(){
+  std::string current = "Hello, this is a string";
+  trial(current);
+}
